@@ -5,3 +5,6 @@ Main in Python
 ## Binary Search
 * 035 [Search Insert Position]
 * 033 [Search in Rotated Sorted Array]
+
+## Dynamic Programming
+* 053 [Maximum Subarray]
